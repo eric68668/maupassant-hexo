@@ -110,7 +110,7 @@ menu:
   - page: archive
     directory: archives/
     icon: fa-archive
-  - page: catalog
+  - page: 大纲
     directory: catalog/
     icon: fa-sitemap
   - page: about
