@@ -110,6 +110,9 @@ menu:
   - page: archive
     directory: archives/
     icon: fa-archive
+  - page: catalog
+    directory: catalog/
+    icon: fa-sitemap
   - page: about
     directory: about/
     icon: fa-user
