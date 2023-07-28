@@ -104,6 +104,9 @@ menu:
   - page: home
     directory: .
     icon: fa-home
+  - page: 打卡
+    directory: flag/
+    icon: fa-flag-checkered
   - page: 原创
     directory: /tags/原创/
     icon: fa-gittip
@@ -113,9 +116,6 @@ menu:
   - page: 大纲
     directory: catalog/
     icon: fa-sitemap
-  - page: 打卡
-    directory: flag/
-    icon: fa-flag-checkered
   - page: about
     directory: about/
     icon: fa-user
